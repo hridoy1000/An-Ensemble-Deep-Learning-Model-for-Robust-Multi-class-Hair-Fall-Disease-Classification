@@ -12,7 +12,7 @@
 
 This section contains links to the datasets used in our project:
 
-- **[KDD Cup 1999](https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data)**
+- **[Hair-diseases](https://www.kaggle.com/datasets/sundarannamalai/hair-diseases)**
 
 
 
